@@ -1,5 +1,5 @@
 # Simple-Redux-Tutorial
-Projeto simples para o rápido aprendizado sobre a utilização do Redux no #React Native. 
+Projeto simples para o rápido aprendizado sobre a utilização do Redux no React Native. 
 
 Redux é um contêiner de estado previsível para aplicativos JavaScript.
 Ele ajuda a escrever aplicativos que se comportam de maneira consistente, executados em diferentes ambientes (cliente, servidor e nativo) e são fáceis de testar.
