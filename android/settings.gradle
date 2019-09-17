@@ -1,0 +1,3 @@
+rootProject.name = 'TesteRedux'
+
+include ':app'
